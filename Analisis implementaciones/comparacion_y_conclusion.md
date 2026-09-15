@@ -1,5 +1,11 @@
 # Comparacion y conclusión
 
+Casanova Lemus Armando
+Figueroa Merino Cesar
+Murillo Rivera Annatar Armando
+Rodriguez Reyna Kelly Merali
+Roque Cortes Daniel Adrian
+
 Despues de analizar por separado la Implementacion 1 y la Implementacion 2, tanto en sus versiones de Java como de Python notamos que ambos programas resuelven exactamente el mismo problema y muestran exactamente los mismos resultados en la consola, pero la forma en que estan estructurados es totalmente diferente.
 
 ---

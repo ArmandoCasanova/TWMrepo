@@ -1,5 +1,11 @@
 # Analisis de la Implementacion 1
 
+Casanova Lemus Armando
+Figueroa Merino Cesar
+Murillo Rivera Annatar Armando
+Rodriguez Reyna Kelly Merali
+Roque Cortes Daniel Adrian
+
 El objetivo del programa es recibir los datos de un pedido (origen, destino, peso, distancia) y consultar un recomendador externo (IA con formato JSON o XML) y con esa sugerencia el sistema elige el transporte mas adecuado (dron, bicicleta, motocicleta o camioneta) y calcula el tiempo, costo y si el paquete cabe en ese transporte.
 
 A grandes razgos notamos que esta implementacion todo el codigo se dividio en diferentes archivos y carpetas y se le asigna a cada parte una tarea especifica

@@ -1,5 +1,11 @@
 # Analisis de la Implementacion 2
 
+Casanova Lemus Armando
+Figueroa Merino Cesar
+Murillo Rivera Annatar Armando
+Rodriguez Reyna Kelly Merali
+Roque Cortes Daniel Adrian
+
 El objetivo del programa es el mismo que en la primera implementacion que es procesar dos pedidos, consultar a un proveedor y calcular el medio de entrega, tiempo y costo correspondiente
 
 Sin embargo, a diferencia del primer proyecto, aqui todo el funcionamiento fue metido dentro de un solo archivo y practicamente dentro de una sola funcion
